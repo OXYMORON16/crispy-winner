@@ -1,0 +1,7 @@
+{
+  "name": "ecell-hackathon",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
